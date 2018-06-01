@@ -2,7 +2,7 @@
 title: "Welcome"
 date: 2018-06-01T16:26:48+01:00
 author: Barry
-draft: true
+draft: false
 ---
 
 ## Welcome to the new barrybridgens.com
