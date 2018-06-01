@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2018-05-31T18:05:34+01:00
-draft: true
+draft: false
 ---
 
 This is the home on the Internet of Barry Bridgens
