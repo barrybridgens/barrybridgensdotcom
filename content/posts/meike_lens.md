@@ -3,7 +3,7 @@ title: "Meike Lens"
 categories: ["Photography", "Lens"]
 date: 2019-06-01T11:29:22+01:00
 tags: ["meike", "25mm"]
-draft: true
+draft: false 
 ---
 
 I have recently purchased a new lens for my Micro Four Thirds cameras

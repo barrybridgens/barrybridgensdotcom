@@ -1,4 +1,4 @@
-baseURL = "http://barrybridgens.com/"
+baseURL = "https://barrybridgens.com/"
 languageCode = "en-us"
 title = "Barry Bridgens dot com"
 theme = "gohugo-theme-ananke"
