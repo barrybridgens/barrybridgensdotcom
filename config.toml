@@ -1,7 +1,7 @@
 baseURL = "https://barrybridgens.com/"
 languageCode = "en-us"
 title = "Barry Bridgens dot com"
-theme = "gohugo-theme-ananke"
+theme = "ananke"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
