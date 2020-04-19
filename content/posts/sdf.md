@@ -30,4 +30,4 @@ Full membership details can be found at the SDF Homepage linked above.
 
 My use of SDF is mainly for learning more about Unix-like operating systems and also a real nostalgia trip as I have haven't used some of the facilities available, such as Gopher, since I was at University in the early 80's.
 
-Give it a go if you ar looking for an "old school" Unix experience. The first level of membership is free and so you have nothing to lose!nostalga
+Give it a go if you are looking for an "old school" Unix experience. The first level of membership is free and so you have nothing to lose!nostalga
