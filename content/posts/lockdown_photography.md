@@ -2,7 +2,7 @@
 title: "Lock-down Photography"
 date: 2020-04-19T14:18:40+01:00
 categories: ["Photography", "Film", "Lock-down"]
-draft: true
+draft: false
 ---
 The whole world is on lock-down due the coronavirus and this makes photography somewhat difficult. I have been trying to take some photographs on my allowed exercise walks but the subject matter is obviously limited.
 
