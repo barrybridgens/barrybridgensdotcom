@@ -1,7 +1,7 @@
 ---
 title: "Film Photography"
 date: 2020-10-18T16:09:13+01:00
-draft: true
+draft: false
 ---
 As I said in my last post, I have been getting back into film photography. It has been a while since then and I have been following both the self developed back and white film route and the lab. developed C41 film route with various cameras.
 
