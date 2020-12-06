@@ -1,7 +1,7 @@
 ---
 title: "Spacemacs"
 date: 2020-12-06T11:57:57Z
-draft: true
+draft: false
 ---
 I have been using emacs for a long time but recently I started playing with an emacs configuration called [spacemacs](https://www.spacemacs.org/)
 
