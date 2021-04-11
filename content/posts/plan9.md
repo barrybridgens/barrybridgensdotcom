@@ -1,4 +1,4 @@
-
+---
 title: "SDF Plan9 Bootcamp"
 categories: ["SDF", "Unix", "Plan9"]
 date: 2021-04-11T20:13:47+01:00
